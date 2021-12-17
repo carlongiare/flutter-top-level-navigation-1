@@ -1,6 +1,6 @@
 # top_level_navigation_1
 
-A new Flutter project.
+A Template for Top Level Navigation in Flutter. This template uses BottomNavigationBar's onTap callback function to navigate between three top level screens.
 
 ## Getting Started
 
